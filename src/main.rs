@@ -1,5 +1,6 @@
 use std::env;
-fn main() {
+#[async_std::main]
+async fn main() {
     let args: Vec<String> = env::args().collect();
-    yadbmt::run(args);
+    yadbmt::run(args).await;
 }
