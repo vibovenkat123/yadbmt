@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "A rust-based migration tool using postgres"
 license = "MIT"
-respository = "https://github.com/vibovenkat123/yadbmt"
+repository = "https://github.com/vibovenkat123/yadbmt"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
