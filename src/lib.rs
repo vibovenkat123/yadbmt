@@ -126,4 +126,5 @@ pub async fn run(args: Vec<String>) {
             process::exit(1);
         }
     };
+    println!("Success");
 }
