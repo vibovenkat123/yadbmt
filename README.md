@@ -4,6 +4,10 @@ This is a tool you can use for managing migrations on a postgres database
 
 You need to set the env variable `DB_URL` which should be the postgres url for connecting
 
+
+## Install
+`cargo install yadbmt`
+
 ## To hash password
 
 To figure out your hashed password for connecting, run this script
